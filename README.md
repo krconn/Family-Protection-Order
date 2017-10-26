@@ -1,3 +1,12 @@
+# Family Protection Order - Prototype
+
+This is a [Django](http://www.djangoproject.com) project imported from the [bcgov/eDivorce](https://github.com/bcgov/eDivorce) repository as a starting point.
+
+ToDo: Update documentation as the product evolves.
+
+_Following is the original project documentation._
+
+---
 # eDivorce
 
 This is a [Django](http://www.djangoproject.com) project forked from the [openshift/django-ex](https://github.com/openshift/django-ex) repository.

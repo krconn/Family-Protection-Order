@@ -11,7 +11,7 @@ _Following is the original project documentation._
 
 This is a [Django](http://www.djangoproject.com) project forked from the [openshift/django-ex](https://github.com/openshift/django-ex) repository.
 
-eDivorce was developed by the British Columbia Ministry of Justice to help self represented litigants fill out the paperwork for their divorce.  It replaces existing fillable PDF forms with a friendly web interface.
+Family/Protection Order project was developed by the British Columbia Ministry of Justice to help self represented litigants fill out the paperwork for their Provincial Family forms filings.  It replaces existing fillable PDF forms with a friendly web interface. Fiscal 17/18 will focus on Protection Orders and 18/19 will merge other filings (e.g. Custody, maintainence and access).
 
 The steps in this document assume that you have access to an OpenShift deployment that you can deploy applications on.
 
